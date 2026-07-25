@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on<br>Embedded Linux and Python.<br><br>🤝 I'm looking to collaborate on<br>Open Source and IoT projects.<br><br>🙌 I'm looking for help with<br>Embedded Linux.<br><br>🌱 I'm currently learning<br>Python, Linux, and Embedded Systems.<br><br>💬 Ask me about<br>Python, Linux, and Electronics.<br><br>⚡ Fun fact<br>I love learning new technologies and building projects.
+💻 I'm currently working on<br>Embedded Linux and Python.<br><br>🤝 I'm looking to collaborate on<br>Open Source and IoT projects.<br><br>🙌 I'm looking for help with<br>Embedded Linux.<br><br> Fun fact<br>I love learning new technologies and building projects.
 
 
 ## 🌐 Socials:
